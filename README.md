@@ -7,7 +7,7 @@ En aquesta primera setmana s'ens demana una aplicació senzilla tipus llistat am
 
 ### GIF
 
-<img src="https://github.com/martaboteller/PLA1_ListView/blob/master/Pla1_v1.gif" width="40" height="40" />
+<img src="https://github.com/martaboteller/PLA1_ListView/blob/master/Pla1_v1.gif" width="200" height="200" />
 
 ## Author
 Marta Boteller
