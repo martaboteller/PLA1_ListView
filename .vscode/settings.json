@@ -1,0 +1,11 @@
+{
+    "window.zoomlevel": 6,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "html.format.indentHandlebars": true,
+    "html.format.endWithNewline": true,
+    "html.format.indentInnerHtml": true,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
